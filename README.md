@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juicysantos
-- 👀 I’m interested in finding a technology that fits for me
-- 🌱 I’m currently learning Android Development with Kotlin
+- 👀 I’m interested in learning more about cybersecurity
+- 🌱 I’m currently learning more about cybersecurity, pursuing a security + certification
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: dulcidoniods@gmail.com
 
