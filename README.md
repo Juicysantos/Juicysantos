@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juicysantos
-- 👀 I’m interested in learning more about data science
+- 👀 I’m interested in learning more about data engineering
 - 🌱 I’m currently learning more about Python, SQL, data analysis, MS Power Platform (Because of my current role)
-- 💞️ I’m looking to collaborate on Python projects to be able to learn more and grow
+- 💞️ I’m looking to collaborate on data projects to be able to learn more and grow
 - 📫 How to reach me, email: dulcidoniods@gmail.com
 
 <!---
